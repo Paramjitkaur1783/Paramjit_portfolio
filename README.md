@@ -34,7 +34,7 @@ I enjoy organising large amounts of technical information into content that read
 Writing samples in this repository:
 
 | Sample | Type | Description |
-|---|---|---|
+(https://paramjitkaur1783.github.io/Flipcart)
 | [8085 Microprocessor Lab Manual](8085-lab-manual.md) | Lab manual | Ten experiments with aim, theory, algorithm, program, observation tables, and viva questions |
 | _More samples coming soon_ | | |
 
