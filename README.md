@@ -3,7 +3,7 @@
 **Senior Technical Writer | Documentation Strategist | AI-Driven Content Specialist**
 
 📍 Greater Noida, Uttar Pradesh, India
-[Contact Number 9810619120]
+Contact Number 9810619120
 
 ✉️ [kaur.paramjit17@gmail.com](mailto:kaur.paramjit17@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/paramjit-kaur-68a9639/)
