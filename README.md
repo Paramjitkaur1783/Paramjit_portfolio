@@ -34,8 +34,8 @@ I enjoy organising large amounts of technical information into content that read
 Writing samples in this repository:
 
 | Sample | Type | Description |
-(https://paramjitkaur1783.github.io/Flipcart)
-| [8085 Microprocessor Lab Manual](8085-lab-manual.md) | Lab manual | Ten experiments with aim, theory, algorithm, program, observation tables, and viva questions |
+|
+| [Procedure Writing Flipcart](https://paramjitkaur1783.github.io/Flipcart/)
 | _More samples coming soon_ | | |
 
 > Add new samples to this table as you publish them, with a link to each file.
