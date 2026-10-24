@@ -36,6 +36,7 @@ Writing samples in this repository:
 | Sample | Type | Description |
 |
 | [Procedure Writing Flipcart](https://paramjitkaur1783.github.io/Flipcart/)
+|[8085 Lab Manual](https://paramjitkaur1783.github.io/8085-lab-manual/)
 | _More samples coming soon_ | | |
 
 > Add new samples to this table as you publish them, with a link to each file.
